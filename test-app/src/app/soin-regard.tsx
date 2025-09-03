@@ -7,8 +7,7 @@ import '../styles/regard.css'
 
 export default function SoinRegard() {
     const soinsRegard = [
-        { titre: 'TEINTURE DES CILS OU SOURCILS', prix: '15€' },
-        { titre: 'REHAUSSEMENT DES CILS', prix: '40€' },
+        { titre: 'TEINTURE DES CILS OU SOURCILS', prix: '15€' }
     ];
 
   return (

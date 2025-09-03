@@ -16,7 +16,8 @@ export default function Epilations() {
     }
   
     const epilations = [
-      { titre: 'Sourcils', prix: '10€' },
+      { titre: 'Sourcils (tracé de ligne)', prix: '15€' },
+      { titre: 'Sourcils (entretien)', prix: '10€' },
       { titre: 'Lèvre ou menton', prix: '9€' },
       { titre: 'Lèvre et menton', prix: '14€' },
       { titre: 'Lèvre et sourcils', prix: '15€' },

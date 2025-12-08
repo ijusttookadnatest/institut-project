@@ -12,7 +12,6 @@ export default function Onglerie() {
       { titre: 'Babyboomer', prix: '48€' },
       { titre: 'Strass x 1', prix: '+1€' },
       { titre: 'Forfait déco.', prix: '+5€' },
-      { titre: 'Forfait paillettes', prix: '+3€' },
       { titre: 'Réparation ongle cassé', prix: '+4€' },
       { titre: 'Dépose complète avec soin', prix: '25€' },
       { titre: 'Dépose ext.', prix: '+10€' },

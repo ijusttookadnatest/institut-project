@@ -21,10 +21,13 @@ export default function Footer() {
                         <p className="p-footer">Pas de règlement en CB</p>
                     </div>
                     <div className="wrapper-footer">
-                        <p className="p-footer">Horaires d&apos;ouverture :</p>
                         <p className="p-footer heavy">Ouvert sur rendez-vous</p>
-                        <p className="p-footer">du Lundi au Vendredi : de 9h00 a 19h00</p>
-                        <p className="p-footer">Fermé le mercredi</p>
+                        <p className="p-footer"><br></br>Horaires d&apos;ouverture :</p>
+                        <p className="p-footer"><br></br>Lundi : de 13h30 à 19h00</p>
+                        <p className="p-footer">Mardi : de 9h00 à 19h00</p>
+                        <p className="p-footer">Mercredi : de 13h30 à 19h00</p>
+                        <p className="p-footer">Jeudi : de 9h00 à 19h00</p>
+                        <p className="p-footer">Vendredi : de 8h30 à 13h30</p>
                     </div>
                 </div>
             </div>

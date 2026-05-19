@@ -22,7 +22,7 @@ export default function Epilations() {
       { titre: 'Lèvre et menton', prix: '14€' },
       { titre: 'Lèvre et sourcils', prix: '15€' },
       { titre: 'Visage', prix: '18€' },
-      { titre: 'Visage + joues', prix: '23€' },
+      { titre: 'Visage + joues', prix: '25€' },
       { titre: 'Lèvre + menton + cou', prix: '20€' },
       { titre: 'Aisselles', prix: '15€' },
       { titre: 'Maillot Classique ou échancré', prix: '18€' },

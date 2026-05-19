@@ -16,13 +16,14 @@ export default function Onglerie() {
       { titre: 'Dépose complète avec soin', prix: '25€' },
       { titre: 'Dépose ext.', prix: '+10€' },
       { titre: 'Manucure classique + pose de vernis classique', prix: '30€' },
-      { titre: 'Manucure classique + pose de vernis longue durée', prix: '32€' },
+      { titre: 'Manucure classique + pose de vernis longue durée', prix: '35€' },
   ];
 
   const tarifsPieds = [
-      { titre: 'Pédicure + French ou Couleur', prix: '40€' },
-      { titre: 'Pédicure classique + vernis', prix: '30€' },
-      { titre: 'Soin Anti-Calosités + French ou Couleur', prix: '55€' },
+      { titre: 'Pédicure + French ou Couleur', prix: '42€' },
+      { titre: 'Pédicure + vernis', prix: '30€' },
+      { titre: 'Pédicure + vernis longue durée', prix: '35€' },
+      { titre: 'Soin Anti-Calosités + French ou Couleur', prix: '60€' },
       { titre: 'Soin Anti-Calosités avec ou sans vernis', prix: '46€' },
   ];
 

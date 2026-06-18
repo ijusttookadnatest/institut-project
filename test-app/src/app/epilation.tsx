@@ -15,7 +15,7 @@ export default function Epilations() {
       return <div>Loading...</div>; // Ou un autre placeholder approprié pendant le chargement.
     }
   
-    const epilations = [
+    const epilations = [ 
       { titre: 'Sourcils (tracé de ligne)', prix: '15€' },
       { titre: 'Sourcils (entretien)', prix: '10€' },
       { titre: 'Lèvre ou menton', prix: '9€' },

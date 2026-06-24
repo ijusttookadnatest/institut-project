@@ -25,7 +25,7 @@ export default function Onglerie() {
       { titre: 'Pédicure + vernis longue durée', prix: '35€' },
       { titre: 'Soin Anti-Calosités + French ou Couleur', prix: '60€' },
       { titre: 'Soin Anti-Calosités + vernis', prix: '46€' },
-      { titre: 'Soin Anti-Calosités + vernis longue durée', prix: '46€' },
+      { titre: 'Soin Anti-Calosités + vernis longue durée', prix: '50€' },
   ];
 
   return (
